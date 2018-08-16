@@ -114,7 +114,7 @@ print(newage)
 # In[26]:
 
 
-sequence="CTAGCTAG"
+sequence="CTAGCTAGaaaaa"
 
 
 # In[27]:
