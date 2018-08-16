@@ -3,8 +3,8 @@
 
 # In[1]:
 
-name="superman"
-name = "mu"
+
+name = "anuj"
 age = 99
 
 
@@ -114,7 +114,7 @@ print(newage)
 # In[26]:
 
 
-sequence="CTAGCTAGaaaaa"
+sequence="CTAGCTAG"
 
 
 # In[27]:
